@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="city">City</string>
+    <string name="_0_f">0°F</string>
+    <string name="h_0_f">H:0°F</string>
+    <string name="l_0_f">L:0°F</string>
+    <string name="weather">weather</string>
+    <string name="go">Go</string>
+    <string name="day">day</string>
+</resources>
